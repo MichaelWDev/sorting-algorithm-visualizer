@@ -1,10 +1,7 @@
 Sorting Algorithm Visualizer
 
-Prerequisites:
-(Enter In Terminal)
-* Install Python: python
-* Install pygame: pip install pygame
+Prerequisites: Python and Pygame
 
-To use: Run it. A window will open.
+To use: Run. A window will then open.
 
 Controls are listed in the application.
